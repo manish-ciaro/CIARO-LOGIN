@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import {
   bgColors,
-  fontSize,
+  fontSize, 
   fontWeight,
   GlobleStyle,
 } from "../../styles/Theme";
