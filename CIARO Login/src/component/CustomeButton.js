@@ -11,7 +11,7 @@ export default function CustomeButton(props) {
           {label}
         </Button>
       </Box>
-    </CustomeBtnStyle>
+    </CustomeBtnStyle>  
   );
 }
 
